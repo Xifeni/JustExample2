@@ -1,0 +1,12 @@
+a.b.FooBarBaz
+c.d.FooBar
+BrBaz
+
+codeborne.WishMaker
+codeborne.MindReader
+
+TelephoneOperator
+ScubaArgentineOperator
+       YoureLeavingUsHere
+   YouveComeToThisPoint
+
